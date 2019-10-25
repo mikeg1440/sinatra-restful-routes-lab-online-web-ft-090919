@@ -13,6 +13,7 @@ gem 'json'
 gem 'pry'
 
 group :test do
+  gem 'corneal'
   gem 'rspec'
   gem 'pry-nav'
   gem 'capybara'
